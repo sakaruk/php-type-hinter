@@ -1,5 +1,7 @@
 ## adhocore/type-hinter
 
+**WIP** - In development, not yet ready
+
 [![Latest Version](https://img.shields.io/github/release/adhocore/php-type-hinter.svg?style=flat-square)](https://github.com/adhocore/php-type-hinter/releases)
 [![Travis Build](https://img.shields.io/travis/com/adhocore/php-type-hinter/master.svg?style=flat-square)](https://travis-ci.com/adhocore/php-type-hinter?branch=master)
 [![Scrutinizer CI](https://img.shields.io/scrutinizer/g/adhocore/php-type-hinter.svg?style=flat-square)](https://scrutinizer-ci.com/g/adhocore/php-type-hinter/?branch=master)
