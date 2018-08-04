@@ -1,9 +1,9 @@
 ## adhocore/type-hinter
 
-[![Latest Version](https://img.shields.io/github/release/adhocore/type-hinter.svg?style=flat-square)](https://github.com/adhocore/type-hinter/releases)
-[![Travis Build](https://img.shields.io/travis/adhocore/type-hinter/master.svg?style=flat-square)](https://travis-ci.org/adhocore/type-hinter?branch=master)
-[![Scrutinizer CI](https://img.shields.io/scrutinizer/g/adhocore/type-hinter.svg?style=flat-square)](https://scrutinizer-ci.com/g/adhocore/type-hinter/?branch=master)
-[![Codecov branch](https://img.shields.io/codecov/c/github/adhocore/type-hinter/master.svg?style=flat-square)](https://codecov.io/gh/adhocore/type-hinter)
+[![Latest Version](https://img.shields.io/github/release/adhocore/php-type-hinter.svg?style=flat-square)](https://github.com/adhocore/php-type-hinter/releases)
+[![Travis Build](https://img.shields.io/travis/com/adhocore/php-type-hinter/master.svg?style=flat-square)](https://travis-ci.com/adhocore/php-type-hinter?branch=master)
+[![Scrutinizer CI](https://img.shields.io/scrutinizer/g/adhocore/php-type-hinter.svg?style=flat-square)](https://scrutinizer-ci.com/g/adhocore/php-type-hinter/?branch=master)
+[![Codecov branch](https://img.shields.io/codecov/c/github/adhocore/php-type-hinter/master.svg?style=flat-square)](https://codecov.io/gh/adhocore/php-type-hinter)
 [![StyleCI](https://styleci.io/repos/142870630/shield)](https://styleci.io/repos/142870630)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](./LICENSE)
 
