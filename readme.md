@@ -10,18 +10,18 @@
 
 ## Installation
 
-#### Composer
-
-```bash
-composer global require adhocore/type-hinter
-```
-
 #### Phar
 
 > This is preferred/recommended way of installation
 
 ```sh
 
+```
+
+#### Composer
+
+```bash
+composer global require adhocore/type-hinter
 ```
 
 ## Usage
