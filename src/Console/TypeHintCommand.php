@@ -1,5 +1,14 @@
 <?php
 
+/*
+ * This file is part of the PHP-TYPE-HINTER package.
+ *
+ * (c) Jitendra Adhikari <jiten.adhikary@gmail.com>
+ *     <https://github.com/adhocore>
+ *
+ * Licensed under MIT license.
+ */
+
 namespace Ahc\TypeHinter\Console;
 
 use Ahc\Cli\Input\Command;
